@@ -1,0 +1,143 @@
+#title {
+    background-color: #ff4c68;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+}
+.container-fluid {
+    padding: 3% 15%;
+}
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.navbar {
+    padding: 0 0 4.5rem;
+}
+body {
+    font-family: 'Montserrat';
+
+}
+.nav-item {
+    padding: 0 18px;
+}
+h2 {
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+
+/* Title Image */
+
+.title-image {
+    width: 70%;
+    transform: rotate(25deg);
+    position: absolute;
+    margin-left: 500px;
+}
+
+/* Features */
+#features {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: white;
+    position: relative;
+}
+h3 {
+    font-family: "Montserrat";
+}
+.col-lg-4 {
+    text-align: center;
+}
+.icon {
+    font-size: 5rem;
+    color: #ef8172;
+    margin-bottom: 20px;
+}
+.icon:hover {
+    color: #ff4c68;
+}
+p {
+    color: #8f8f8f;
+}
+
+
+/* Testimonials */
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding: 3%;
+}
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/* Pricing */
+#pricing {
+    padding: 7% 15%;
+}
+
+.price-button {
+    padding: 20px;
+}
+.card {
+    text-align: center;
+    font-weight: lighter;
+}
+.card-body {
+    padding: 20px;
+}
+.pricing-col {
+    padding: 3% 2%;
+}
+/* CTA */
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
+    font-family: 'Montserrat';
+}
+.cta-text {
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: whitesmoke;
+    padding-bottom: 7%;
+}
+
+.cta-button {
+    margin: 0 1%;
+}
+
+/* Footer */
+#footer {
+    text-align: center;
+    padding: 5% 15%;
+    background-color: white;
+}
+
+.contact {
+    padding: 3% 1%;
+}

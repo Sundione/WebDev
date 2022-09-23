@@ -1,0 +1,27 @@
+body {
+    background-color: #F5F0BB;
+}
+hr {
+    border-style: dotted none none;
+    border-color: #C4DFAA;
+    border-width: 5px;
+    width: 5%;
+}
+h1 {
+    color: #90C8AC;
+}
+h2 {
+    color: #90C8AC;
+}
+h3 {
+    color: #90C8AC;
+}
+li {
+    color: #73A9AD;
+}
+a {
+    color: #73A9AD;
+}
+a:hover {
+    color: rgb(227, 181, 181); 
+}
